@@ -12,3 +12,5 @@ setup(
     },
     # include any other necessary setup options here
 )
+git clone https://github.com/OthersideAI/self-operating-computer.git
+
